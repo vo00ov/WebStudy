@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Dec 16 17:29:54 KST 2022
+org.eclipse.jst.jee.server\:web1216_2=E\:\\\uC544\uC544\uC544\\java Tools\\apache-tomcat-9.0.70\\webapps\\web1216_2
+org.eclipse.jst.j2ee.server\:ojdbc6=E\:\\\uC544\uC544\uC544\\java Tools\\apache-tomcat-9.0.70\\webapps\\web1216_2\\WEB-INF\\lib\\ojdbc6.jar

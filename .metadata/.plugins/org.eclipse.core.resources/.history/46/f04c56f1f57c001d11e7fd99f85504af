@@ -1,0 +1,32 @@
+package org.project.controller;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class Front extends HttpServlet{
+	
+	@Override
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		System.out.println("GET");
+		
+		String path = request.getContextPath();
+		String uri = request.getRequestURI();
+		String bUrl = uri.substring(path.length());
+		String host = request.getRemoteHost();
+		
+		System.out.println(path);
+		System.out.println(uri);
+		System.out.println(path);
+		System.out.println(host);
+	}
+	
+	@Override
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		System.out.println("POST");
+	}
+
+}

@@ -1,0 +1,39 @@
+package org.project.controller;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class Front extends HttpServlet{
+	
+	@Override
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		String path = request.getContextPath();		// 프로젝트 기본 경로(path)
+		//web1216
+		
+		String uri = request.getRequestURI();		// 프로젝트 +파일(요청) 경로
+		//web1216/insert.do
+		
+		String bUrl = uri.substring(path.length());	
+		
+		String host = request.getRemoteHost();		// 요청 host
+		
+		System.out.println(path);
+		System.out.println(uri);
+		System.out.println(bUrl);
+		System.out.println(host);
+		
+		StringBuffer URL = request.getRequestURL();	// 요청 전체경로
+		System.out.println(URL);
+	}
+	
+	@Override
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		System.out.println("POST");
+	}
+
+}
