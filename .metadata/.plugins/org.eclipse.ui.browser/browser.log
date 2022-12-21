@@ -8,3 +8,71 @@
 12월 16, 2022 15:09:57.17 [14276:11800:1216/150957.016:ERROR:device_event_log_impl.cc(215)] [15:09:57.017] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
 12월 16, 2022 15:11:14.394 [12148:13568:1216/151114.394:ERROR:device_event_log_impl.cc(215)] [15:11:14.393] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
 12월 16, 2022 16:49:14.77 [10116:13700:1216/164914.077:ERROR:device_event_log_impl.cc(215)] [16:49:14.077] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+12월 19, 2022 10:52:39.454 NEW SESSION
+12월 19, 2022 10:52:39.454 [3436:8524:1219/105239.453:ERROR:device_event_log_impl.cc(215)] [10:52:39.453] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 11:04:54.263 [10740:6568:1219/110454.263:ERROR:device_event_log_impl.cc(215)] [11:04:54.262] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 11:06:36.279 [10872:11712:1219/110636.279:ERROR:device_event_log_impl.cc(215)] [11:06:36.278] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 11:10:05.443 [4416:6560:1219/111005.443:ERROR:device_event_log_impl.cc(215)] [11:10:05.443] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 11:29:49.90 [12392:11388:1219/112949.090:ERROR:device_event_log_impl.cc(215)] [11:29:49.090] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 11:30:21.309 [3204:10528:1219/113021.309:ERROR:device_event_log_impl.cc(215)] [11:30:21.309] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+12월 19, 2022 11:33:39.956 NEW SESSION
+12월 19, 2022 11:33:39.957 [3592:3364:1219/113339.955:ERROR:device_event_log_impl.cc(215)] [11:33:39.956] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 11:34:26.668 [8576:6812:1219/113426.668:ERROR:device_event_log_impl.cc(215)] [11:34:26.668] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 11:35:13.415 [11016:10972:1219/113513.415:ERROR:device_event_log_impl.cc(215)] [11:35:13.414] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+12월 19, 2022 16:05:20.784 NEW SESSION
+12월 19, 2022 16:05:20.784 [2060:12580:1219/160520.783:ERROR:device_event_log_impl.cc(215)] [16:05:20.783] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 16:07:55.765 [7056:13184:1219/160755.765:ERROR:device_event_log_impl.cc(215)] [16:07:55.765] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 16:09:33.481 [7972:11132:1219/160933.481:ERROR:device_event_log_impl.cc(215)] [16:09:33.481] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 16:19:07.380 [3204:11000:1219/161907.380:ERROR:device_event_log_impl.cc(215)] [16:19:07.380] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 16:20:44.569 [5460:308:1219/162044.569:ERROR:device_event_log_impl.cc(215)] [16:20:44.568] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 16:22:40.90 [3388:10136:1219/162240.090:ERROR:device_event_log_impl.cc(215)] [16:22:40.091] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 16:24:00.418 [13300:9812:1219/162400.417:ERROR:device_event_log_impl.cc(215)] [16:24:00.418] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 16:32:24.305 [5004:7120:1219/163224.305:ERROR:device_event_log_impl.cc(215)] [16:32:24.305] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 16:33:57.706 [10732:10076:1219/163357.706:ERROR:device_event_log_impl.cc(215)] [16:33:57.707] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 19, 2022 16:39:26.468 [10732:8028:1219/163926.468:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 19, 2022 16:39:26.469 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 19, 2022 16:39:26.470 ERROR: Failed parsing Certificate
+12월 19, 2022 16:39:26.471 
+12월 19, 2022 16:39:28.669 [10732:8028:1219/163928.668:ERROR:cert_issuer_source_aia.cc(34)] Error parsing cert retrieved from AIA (as DER):
+12월 19, 2022 16:39:28.669 ERROR: Couldn't read tbsCertificate as SEQUENCE
+12월 19, 2022 16:39:28.669 ERROR: Failed parsing Certificate
+12월 19, 2022 16:39:28.669 
+
+12월 20, 2022 10:35:32.04 NEW SESSION
+12월 20, 2022 10:35:32.04 [6420:11404:1220/103532.003:ERROR:device_event_log_impl.cc(215)] [10:35:32.003] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:36:12.436 [12944:12508:1220/113612.436:ERROR:device_event_log_impl.cc(215)] [11:36:12.436] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:36:45.209 [292:12448:1220/113645.209:ERROR:device_event_log_impl.cc(215)] [11:36:45.209] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:38:23.65 [8256:13100:1220/113823.065:ERROR:device_event_log_impl.cc(215)] [11:38:23.065] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:38:36.188 [13276:3532:1220/113836.187:ERROR:device_event_log_impl.cc(215)] [11:38:36.187] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:39:17.678 [10112:12328:1220/113917.678:ERROR:device_event_log_impl.cc(215)] [11:39:17.678] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:39:48.550 [2736:6948:1220/113948.550:ERROR:device_event_log_impl.cc(215)] [11:39:48.550] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:40:42.161 [13264:6444:1220/114042.160:ERROR:device_event_log_impl.cc(215)] [11:40:42.160] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:41:00.113 [6968:12088:1220/114100.113:ERROR:device_event_log_impl.cc(215)] [11:41:00.113] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:46:53.804 [2776:12328:1220/114653.804:ERROR:device_event_log_impl.cc(215)] [11:46:53.804] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:51:45.852 [12864:12040:1220/115145.852:ERROR:device_event_log_impl.cc(215)] [11:51:45.852] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:51:58.708 [10148:1160:1220/115158.708:ERROR:device_event_log_impl.cc(215)] [11:51:58.708] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:52:23.71 [10844:11268:1220/115223.071:ERROR:device_event_log_impl.cc(215)] [11:52:23.071] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:57:46.565 [11788:7824:1220/115746.564:ERROR:device_event_log_impl.cc(215)] [11:57:46.564] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 11:58:07.862 [10776:9976:1220/115807.862:ERROR:device_event_log_impl.cc(215)] [11:58:07.861] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+
+12월 20, 2022 12:02:07.352 NEW SESSION
+12월 20, 2022 12:02:07.352 [10200:12548:1220/120207.351:ERROR:device_event_log_impl.cc(215)] [12:02:07.351] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 12:09:07.575 [10404:308:1220/120907.574:ERROR:device_event_log_impl.cc(215)] [12:09:07.574] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 12:16:49.283 [12232:11168:1220/121649.282:ERROR:device_event_log_impl.cc(215)] [12:16:49.282] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 12:33:40.873 [2356:6232:1220/123340.872:ERROR:device_event_log_impl.cc(215)] [12:33:40.872] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 13:03:54.529 [6676:12596:1220/130354.529:ERROR:device_event_log_impl.cc(215)] [13:03:54.528] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 13:05:36.871 [8508:2220:1220/130536.871:ERROR:device_event_log_impl.cc(215)] [13:05:36.870] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:05:06.248 [12936:12988:1220/140506.248:ERROR:device_event_log_impl.cc(215)] [14:05:06.247] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:14:09.426 [7284:1640:1220/141409.425:ERROR:device_event_log_impl.cc(215)] [14:14:09.425] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:15:58.47 [12708:608:1220/141558.047:ERROR:device_event_log_impl.cc(215)] [14:15:58.047] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:16:40.300 [6424:10704:1220/141640.300:ERROR:device_event_log_impl.cc(215)] [14:16:40.299] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:34:54.837 [8220:2484:1220/143454.837:ERROR:device_event_log_impl.cc(215)] [14:34:54.837] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:51:01.527 [3308:11404:1220/145101.526:ERROR:device_event_log_impl.cc(215)] [14:51:01.527] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:51:49.989 [8648:5488:1220/145149.988:ERROR:device_event_log_impl.cc(215)] [14:51:49.988] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:52:19.549 [11752:10684:1220/145219.549:ERROR:device_event_log_impl.cc(215)] [14:52:19.549] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:55:25.222 [6632:12760:1220/145525.222:ERROR:device_event_log_impl.cc(215)] [14:55:25.221] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:56:40.186 [7772:10228:1220/145640.185:ERROR:device_event_log_impl.cc(215)] [14:56:40.186] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+12월 20, 2022 14:59:30.187 [10116:5684:1220/145930.187:ERROR:device_event_log_impl.cc(215)] [14:59:30.186] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
