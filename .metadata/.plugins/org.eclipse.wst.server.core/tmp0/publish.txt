@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Tue Dec 20 15:01:08 KST 2022
+#Wed Dec 21 17:48:09 KST 2022
 org.eclipse.jst.jee.server\:webProject1220=E\:\\\uC544\uC544\uC544\\java Tools\\apache-tomcat-9.0.70\\webapps\\webProject1220
+org.eclipse.jst.jee.server\:webProject1221=E\:\\\uC544\uC544\uC544\\java Tools\\apache-tomcat-9.0.70\\webapps\\webProject1221
