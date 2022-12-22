@@ -23,3 +23,6 @@ select * from login1221;
 select count(*) from login1221 where userId='m1' and userPw='11';
 --회원정보 -> 상세정보
 select * from login1221 where userId='m1';
+
+--===========================================================================================================================
+
