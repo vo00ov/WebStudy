@@ -1,0 +1,84 @@
+@charset "UTF-8";
+@import url("common/reset.css");
+@import url("common/header.css");
+@import url("common/footer.css");
+
+/*index*/
+
+.container{
+	width: 100%;
+/* 	background-color: #bee4ed; */
+	background: url(../images/test002.jpg) no-repeat 50%/cover;
+	
+}
+
+.container .login{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	padding: 20px 0;
+	box-sizing: border-box;
+	opacity: 80%;
+	
+}
+
+.container .login .login-con{
+	width: 1200px;
+	height: auto;
+	border: 0px solid;
+	box-sizing: border-box;
+/* 	background-color: #ffffff; */
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+.container .login .login-con form{
+	background-color: #ffffff;
+}
+
+
+
+/* 테이블 */
+table,th,td{
+    border: 1px solid #cccccc;
+    border-collapse: collapse;
+}
+
+.container .login .login-con table tr th{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px 0;
+    box-sizing: border-box;
+    font-size: 25px;
+
+}
+
+.container .login .login-con table tr td {
+    border: 1px solid #cccccc;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+.container .login .login-con table tr.btnZone td input {
+    width: 100px;
+    padding: 5px 10px;
+}
+
+
+
+
+.container .login .login-con table tr.btnZone td {
+    width: 100%;
+    background-color: #1f0733;
+    text-align: center;
+}
+
+#btn input{
+    width: 100px;
+    padding: 5px 10px;
+}
+
+.container .login .login-con table td{
+    padding: 10px 2px;
+}
