@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="js/event.js" defer></script>
+<style>
+* {
+	margin: 0;
+	padding: 0;
+}
+
+ul,li{
+	list-style: none;
+}
+
+#header {
+/* 	border: 1px solid; */
+	display: flex;
+	justify-content: center;
+	padding: 20px 0;
+	background-color: #555555;
+}
+
+#header .gnb {
+	flex: 0 1 1200px;
+	display: flex;
+	justify-content: space-between;
+	padding: 10PX;
+	background-color: #555555;
+}
+
+#header .gnb button {
+	width: 120px;
+	padding: 5px 10px;
+/* 	border: 1px solid #cccccc; */
+	box-sizing: border-box;
+	background-color: #555555;
+	color: #ffffff;
+}
+
+#header .gnb button:hover {
+	cursor: pointer;
+	border: 1px solid #222222 !important;
+	background-color: #550055 !important;
+	color: #ffffff !important;
+	box-sizing: border-box;
+	transition: all 0.5s;
+}
+
+.container {
+	width: 100%;
+	min-height: 100vh;
+	border: 1px solid;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: center; /*가로가운데*/
+	align-items: center; /*세로가운데*/
+}
+
+.container .gallery {
+	flex: 0 1 1200px;
+	height: auto;
+	border: 1px solid;
+	box-sizing: border-box;
+	overflow: hidden;
+	
+}
+
+.container .gallery ul{
+	width: 100%;
+	height: 400px;
+	position: relative;
+}
+
+.container .gallery ul li{
+	width: 100%;
+	position:absolute;
+	height: 400px;
+/* 	border: 1px solid #000000; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 30px;
+	visibility: hidden;
+	opacity: 0;
+	color: #cccccc;
+	
+}
+
+/* .container h1 {
+	width: 200px;
+	list-style: 50px;
+	border: 1px solid;
+	box-sizing: border-box;
+	text-align: center;
+} */
+
+.hon {
+	background-color: #1c5c75 !important;
+	position: sticky;
+	top: 0;
+	z-index: 1000;
+	transition: all 0.5s;
+	padding: 50px 0 !important;
+}
+
+.fadeLi{
+	visibility: visible !important;
+	opacity: 1 !important;
+}
+	
+
+
+</style>
+	
+</head>
+<body>
+<div id="header">
+	<div class="gnb">
+		<button id="btn1">BUTTON1</button>
+		<button id="btn2">BUTTON2</button>
+		<button id="btn3">BUTTON3</button>
+		<button id="btn4">BUTTON4</button>
+		<button id="btn5">BUTTON5</button>
+		
+		<form action="searchOk" id="searchForm" method="get">
+			<input type="text" name="search" id="search" />
+			<input type="submit" value="검색1" id="searchOk" />
+			<input type="button" value="검색2" id="searchBtnOk"/>
+		</form>
+	</div>
+</div>
+
+<div class="container">
+	<div class="gallery">
+		<ul>
+			<li>Gallery1</li>
+			<li>Gallery2</li>
+			<li>Gallery3</li>
+			<li>Gallery4</li>
+			<li>Gallery5</li>	
+		</ul>
+	</div>
+</div>
+
+
+
+
+</body>
+</html>
